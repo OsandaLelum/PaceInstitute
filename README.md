@@ -1,5 +1,7 @@
-# PaceInstitute
 
+
+
+># PaceInstitute
 Course Guide will provide All details About the CPWD
 
 *Certified Professional in Full Stack Web Development*
@@ -13,7 +15,6 @@ back-end web developer technologies with live projects.
 
 Program Objectives
 =
-
 ● Enable participants to develop elegant and responsive web pages by
 leveraging latest technologies
 ● Build strong foundations in entry level web developers thereby making them
@@ -38,22 +39,25 @@ Unit 1 : Web Development Fundamentals
 *● Server Models
 *● Different Website types and technologies used to build them
 *● Search Engine Technologies
+
 Unit 2 : Planning and Prototyping
 =
-\● Understanding user experience (UX) and website planning
-\● Understanding user interface (UI) design
-\● Prototyping Tools
-\● Graphic design tools
+● Understanding user experience (UX) and website planning
+● Understanding user interface (UI) design
+● Prototyping Tools
+● Graphic design tools
+
 Unit 3 : Web Application Development - HTML
 =
-\● Introduction Web Development, HTML, HTML5 & IDEs
-\● Basics of HTML & CSS and HTML Headings, Paragraphs & Images
-\● HTML Text Formatting, Links, Entities and Inline vs Block Level Elements
-\● HTML Lists: Unordered List, Ordered List and Description List
-\● Iframe to Display Web-Pages from other Websites on your Website
-\● Overview of HTML5 and HTML5 Semantic Elements
-\● Using Audios and Videos on Websites using HTML5 Elements
-\● Creating Forms to Collect Data from Users using HTML5 & CSS3
+● Introduction Web Development, HTML, HTML5 & IDEs
+● Basics of HTML & CSS and HTML Headings, Paragraphs & Images
+● HTML Text Formatting, Links, Entities and Inline vs Block Level Elements
+● HTML Lists: Unordered List, Ordered List and Description List
+● Iframe to Display Web-Pages from other Websites on your Website
+● Overview of HTML5 and HTML5 Semantic Elements
+● Using Audios and Videos on Websites using HTML5 Elements
+● Creating Forms to Collect Data from Users using HTML5 & CSS3
+
 Unit 4: Styling with CSS3
 =
 \● Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
@@ -61,6 +65,7 @@ Unit 4: Styling with CSS3
 \● CSS3 Box-Model: Padding, Margin, Outline, Border, Background
 \● CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
 \● CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
+
 Unit 5 Git & Version Control
 =
 \● Getting Started With Git
@@ -68,6 +73,7 @@ Unit 5 Git & Version Control
 \● Working With A Local Repository
 \● Branches and Merging
 \● Working With A Remote Repository
+
 Unit 6 :Bootstrap Programming
 =
 \● Getting Started With Bootstrap
@@ -78,25 +84,29 @@ Unit 6 :Bootstrap Programming
 \● Modal, Dropdown, Tabs & Tooltip - Project on JavaScript Plugins
 \● Collapse, Accordion and Carousel
 \● Project Custom Bootstrap Theme
+
 Section 2
 =
 Unit 7: Basic Javascript concepts
-\● Getting Started With JavaScript
-\● Variables, Arrays & Objects - Project using Arrays and Objects
-\● Loops, Conditionals & Switches - Project on Iterations
-\● Functions & Events - Project on Functions
-\● JavaScript Form Validation - Form Project
-\● Learning Ajax - Basic Ajax Project
-\● Project - Github AJAX
+=
+● Getting Started With JavaScript
+● Variables, Arrays & Objects - Project using Arrays and Objects
+● Loops, Conditionals & Switches - Project on Iterations
+● Functions & Events - Project on Functions
+● JavaScript Form Validation - Form Project
+● Learning Ajax - Basic Ajax Project
+● Project - Github AJAX
+
 Unit 8 : Front-end Frameworks - JQuery
 =
-\● Getting Started With jQuery
-\● Selectors & Mouse Events - Project on Selectors
-\● Form Events - Project Form Events
-\● DOM Manipulation - Project on DOM
-\● Effects & Animation - Project on Effect and Animation
-\● Traversing & Filtering - Project on Filtering
-\● Project - jQuery Image Slider
+● Getting Started With jQuery
+● Selectors & Mouse Events - Project on Selectors
+● Form Events - Project Form Events
+● DOM Manipulation - Project on DOM
+● Effects & Animation - Project on Effect and Animation
+● Traversing & Filtering - Project on Filtering
+● Project - jQuery Image Slider
+
 Unit 9 Frontend Frameworks - ReactJs
 =
 \● Introduction To React
@@ -116,7 +126,9 @@ Unit 10 App Development with Angular
 ● Fetch Data From A Service - Project on Blog
 ● Submit Data To Service
 ● Http Module & Observables
+
 Section 3
+=
 Unit 11 : Database design using MYSQL
 =
 ● Getting Started With MySQL
@@ -128,6 +140,7 @@ Unit 11 : Database design using MYSQL
 ● Update, Delete & Alter
 ● Foreign Keys
 ● Table Joins
+
 Unit 12 : Backend Programming with PHP
 =
 ● Using PHP
@@ -139,12 +152,14 @@ Unit 12 : Backend Programming with PHP
 ● Storing and retrieving data
 ● Writing functions
 ● Object Oriented PHP:
+
 Unit 13 :Back-end Frameworks - Laravel php framework
 =
 ● Introduction to Laravel
 ● Displaying Views & Understanding Blade
 ● Creating Initial Laravel Pages
 ● Creating a Laravel Application
+
 Unit 14: MongoDB - Learning Nosql database design
 =
 ● Introduction to MongoDB (No-sql)
@@ -157,6 +172,7 @@ Unit 14: MongoDB - Learning Nosql database design
 ● Indexing In collections
 ● Aggregation in MongoDb
 ● Embedded Document in MongoDb
+
 Unit 15: Back-end Programming with Node.js
 =
 ● Getting Started With Node
@@ -171,6 +187,7 @@ Unit 15: Back-end Programming with Node.js
 ● Password Encryption
 ● Login Functionality
 ● Access Control & Logout
+
 Unit 16 : Back-end Frameworks - ExpressJS
 =
 ● Introduction
@@ -180,7 +197,10 @@ Unit 16 : Back-end Frameworks - ExpressJS
 ● URL Path Params
 ● Server-side-rendered Todo List
 ● HBS Rendering
+
 Section 4
+=
+
 Unit 17 : Building a website with Wordpress
 =
 ● Introduction
@@ -188,6 +208,7 @@ Unit 17 : Building a website with Wordpress
 ● Configuring Site Appearance
 ● Extending Functionality with Plugins
 ● Adding Key Content
+
 Unit 18 WordPress :SEO 
 =
 ● Introduction
