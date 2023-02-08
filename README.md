@@ -22,8 +22,14 @@ technologies by applying foundation paradigms
 ● By the end of the program participants will be become an industry-ready front
 end web developer who can be readily deployed in a prject
 
-Course Outline
-=
+Table of Contents
+====================
+
+.. contents::
+   :backlinks: none
+   :local:
+
+
 Section 1
 Unit 1 : Web Development Fundamentals
 =
