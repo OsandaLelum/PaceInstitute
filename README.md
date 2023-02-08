@@ -1,10 +1,9 @@
-
-
-
-># PaceInstitute
+ PaceInstitute
+ =
 Course Guide will provide All details About the CPWD
 
 *Certified Professional in Full Stack Web Development*
+=
 
 This Full Stack Developer Course Syllabus helps you master the most in-demand full
 stack development skills like HTML, CSS, JavaScript, React. js, MEAN Stack, and more.
@@ -13,8 +12,8 @@ Stack Course Content for freshers and working Professionals. This Full Stack Dev
 course syllabus is designed to give you an essence of front-end, middleware, testing and
 back-end web developer technologies with live projects.
 
-Program Objectives
-=
+#Program Objectives
+
 - Enable participants to develop elegant and responsive web pages by
 leveraging latest technologies
 - Build strong foundations in entry level web developers thereby making them
@@ -32,23 +31,23 @@ Table of Contents
 
 
 Section 1
-Unit 1 : Web Development Fundamentals
-=
+#Unit 1 : Web Development Fundamentals
+
  - Introduction to Internet/World Wide Web
  - Networking Basics(Protocols/Addressing)
  - Server Models
  - Different Website types and technologies used to build them
  - Search Engine Technologies
 
-Unit 2 : Planning and Prototyping
-=
+#Unit 2 : Planning and Prototyping
+
 - Understanding user experience (UX) and website planning
 - Understanding user interface (UI) design
 - Prototyping Tools
 - Graphic design tools
 
-Unit 3 : Web Application Development - HTML
-=
+#Unit 3 : Web Application Development - HTML
+
 - Introduction Web Development, HTML, HTML5 & IDEs
 - Basics of HTML & CSS and HTML Headings, Paragraphs & Images
 - HTML Text Formatting, Links, Entities and Inline vs Block Level Elements
@@ -58,24 +57,24 @@ Unit 3 : Web Application Development - HTML
 - Using Audios and Videos on Websites using HTML5 Elements
 - Creating Forms to Collect Data from Users using HTML5 & CSS3
 
-Unit 4: Styling with CSS3
-=
+#Unit 4: Styling with CSS3
+
 - Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
 - Using CSS3 Styles with div, p, span etc. for Creating Beautiful Web Pages
 - CSS3 Box-Model: Padding, Margin, Outline, Border, Background
 - CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
 - CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
 
-Unit 5 Git & Version Control
-=
+#Unit 5 Git & Version Control
+
 - Getting Started With Git
 - Installing Git In Windows
 - Working With A Local Repository
 - Branches and Merging
 - Working With A Remote Repository
 
-Unit 6 :Bootstrap Programming
-=
+#Unit 6 :Bootstrap Programming
+
 - Getting Started With Bootstrap
 - Setup, Templates & Navbar - Project using Navbar
 - Typography, Forms & Tables - Project using Forms and Tables
@@ -87,8 +86,8 @@ Unit 6 :Bootstrap Programming
 
 Section 2
 =
-Unit 7: Basic Javascript concepts
-=
+#Unit 7: Basic Javascript concepts
+
 - Getting Started With JavaScript
 - Variables, Arrays & Objects - Project using Arrays and Objects
 - Loops, Conditionals & Switches - Project on Iterations
@@ -97,8 +96,8 @@ Unit 7: Basic Javascript concepts
 - Learning Ajax - Basic Ajax Project
 - Project - Github AJAX
 
-Unit 8 : Front-end Frameworks - JQuery
-=
+#Unit 8 : Front-end Frameworks - JQuery
+
 - Getting Started With jQuery
 - Selectors & Mouse Events - Project on Selectors
 - Form Events - Project Form Events
@@ -107,16 +106,16 @@ Unit 8 : Front-end Frameworks - JQuery
 - Traversing & Filtering - Project on Filtering
 - Project - jQuery Image Slider
 
-Unit 9 Frontend Frameworks - ReactJs
-=
+#Unit 9 Frontend Frameworks - ReactJs
+
 \- Introduction To React
 \- Original DOM Vs Virtual DOM
 \- React Components
 \- React Components With JSX
 \- Props And State
 
-Unit 10 App Development with Angular
-=
+#Unit 10 App Development with Angular
+
 - Getting Started With Angular
 - Angular 2 App From Scratch
 - Angular 2 App From The Quickstart
@@ -129,8 +128,8 @@ Unit 10 App Development with Angular
 
 Section 3
 =
-Unit 11 : Database design using MYSQL
-=
+#Unit 11 : Database design using MYSQL
+
 - Getting Started With MySQL
 - An Overview of SQL
 - XAMPP and MySQL Setup
@@ -141,8 +140,8 @@ Unit 11 : Database design using MYSQL
 - Foreign Keys
 - Table Joins
 
-Unit 12 : Backend Programming with PHP
-=
+#Unit 12 : Backend Programming with PHP
+
 - Using PHP
 - Embedding PHP in HTML
 - Adding Dynamic Content
@@ -153,15 +152,15 @@ Unit 12 : Backend Programming with PHP
 - Writing functions
 - Object Oriented PHP:
 
-Unit 13 :Back-end Frameworks - Laravel php framework
-=
+#Unit 13 :Back-end Frameworks - Laravel php framework
+
 - Introduction to Laravel
 - Displaying Views & Understanding Blade
 - Creating Initial Laravel Pages
 - Creating a Laravel Application
 
-Unit 14: MongoDB - Learning Nosql database design
-=
+#Unit 14: MongoDB - Learning Nosql database design
+
 - Introduction to MongoDB (No-sql)
 - Collections in MongoDb
 - Documents In mongoDb
@@ -173,8 +172,8 @@ Unit 14: MongoDB - Learning Nosql database design
 - Aggregation in MongoDb
 - Embedded Document in MongoDb
 
-Unit 15: Back-end Programming with Node.js
-=
+#Unit 15: Back-end Programming with Node.js
+
 - Getting Started With Node
 - Installation and Simple Server - Project using Simple Node Server
 - Express Setup and Routing
@@ -188,8 +187,8 @@ Unit 15: Back-end Programming with Node.js
 - Login Functionality
 - Access Control & Logout
 
-Unit 16 : Back-end Frameworks - ExpressJS
-=
+#Unit 16 : Back-end Frameworks - ExpressJS
+
 - Introduction
 - Request and Query Params
 - Form Submission
@@ -200,20 +199,22 @@ Unit 16 : Back-end Frameworks - ExpressJS
 
 Section 4
 =
+#Unit 17 : Building a website with Wordpress
 
-Unit 17 : Building a website with Wordpress
-=
 - Introduction
 - Preparing to Build Your Site
 - Configuring Site Appearance
 - Extending Functionality with Plugins
 - Adding Key Content
 
-Unit 18 WordPress :SEO 
-=
+#Unit 18 WordPress :SEO 
+
 - Introduction
 - SEO Principles
 - SEO All in One Pack
 - WordPress SEO by Yoast
-Unit 19 : Final Project
-Unit 20 : How to get a job as a web Developer
+- 
+#Unit 19 : Final Project
+ group project 
+
+#Unit 20 : How to get a job as a web Developer
