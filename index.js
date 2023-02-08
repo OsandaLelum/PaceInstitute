@@ -418,11 +418,125 @@ var camping ={
 console.log(camping);
 
 */
-//rest
 
+//rest operator in ES6
+
+/*
 var rivers =["Mahaweli", "Kelani","Kalu","walawe"]
 var[first,...rest]=rivers;
 
 console.log(first);
 console.log(rest);
+*/
 
+// classes constructor and Super
+
+//classes
+
+//we could create a function and add methods on the function object using the prototype
+//in javascript functions are objects --inherit the behaviour of object
+
+/*
+function Holiday(destination,days){
+    this.destination =destination;
+    this.days = days;
+}
+
+Holiday.prototype.info = function(){
+    console.log(this.destination +' | ' + this.days + 'days');
+}
+
+var sl = new Holiday('Sri Lanks', 30)
+console.log(sl);
+*/
+
+/*
+class Holiday{
+
+}
+
+console.log(Holiday);
+*/
+
+/*
+class Holiday{
+
+
+}
+
+console.log(Holiday.prototype);
+*/
+
+/*
+class Holiday{
+    // this constructor method will set arguments as property in this Holiday class
+ constructor(destination,days){
+    this.destination = destination;
+    this.days = days;
+ }
+
+ info(){
+    console.log(`${this.destination} will take ${this.days} days`);
+ }
+
+}
+
+
+const trip = new Holiday("Unawatuna , Sri Lanka" , 30)
+console.log(trip.info());
+
+console.log(Holiday.prototype);
+*/
+/*
+class Holiday{
+
+constructor(destination,days){
+    this.destination = destination;
+    this.days = days;
+ }
+
+ info(){
+    console.log(`${this.destination} will take ${this.days} days`);
+ }
+
+}
+const trip = new Holiday("Unawatuna , Sri Lanka" , 30)
+console.log(trip.info());
+
+*/
+
+
+//Inheritance
+
+//Super class
+class Holiday{
+
+    constructor(destination,days){
+        this.destination = destination;
+        this.days = days;
+     }
+    
+     info(){
+        console.log(`${this.destination} will take ${this.days} days`);
+     }
+    
+    }
+
+    // sub class
+    class Expendition extends Holiday{
+        constructor(destination,days,gear){
+            //super keyword
+            super(destination, days);
+            this.gear =gear;
+        }
+
+        info(){
+            super.info();
+            //method overriding
+            console.log(`Bring your ${this.gear.join(" and your ")}`)
+        }
+
+    }
+
+    const tripWithGear = new Expendition("Everest" , 30 ,["sunglasses" , "Srilankan Flag", "Camera"]);
+    tripWithGear.info();
