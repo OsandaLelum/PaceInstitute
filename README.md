@@ -33,77 +33,77 @@ Table of Contents
 Section 1
 Unit 1 : Web Development Fundamentals
 =
-● Introduction to Internet/World Wide Web
-● Networking Basics(Protocols/Addressing)
-● Server Models
-● Different Website types and technologies used to build them
-● Search Engine Technologies
+\● Introduction to Internet/World Wide Web
+\● Networking Basics(Protocols/Addressing)
+\● Server Models
+\● Different Website types and technologies used to build them
+\● Search Engine Technologies
 Unit 2 : Planning and Prototyping
 =
-● Understanding user experience (UX) and website planning
-● Understanding user interface (UI) design
-● Prototyping Tools
-● Graphic design tools
+\● Understanding user experience (UX) and website planning
+\● Understanding user interface (UI) design
+\● Prototyping Tools
+\● Graphic design tools
 Unit 3 : Web Application Development - HTML
 =
-● Introduction Web Development, HTML, HTML5 & IDEs
-● Basics of HTML & CSS and HTML Headings, Paragraphs & Images
-● HTML Text Formatting, Links, Entities and Inline vs Block Level Elements
-● HTML Lists: Unordered List, Ordered List and Description List
-● Iframe to Display Web-Pages from other Websites on your Website
-● Overview of HTML5 and HTML5 Semantic Elements
-● Using Audios and Videos on Websites using HTML5 Elements
-● Creating Forms to Collect Data from Users using HTML5 & CSS3
+\● Introduction Web Development, HTML, HTML5 & IDEs
+\● Basics of HTML & CSS and HTML Headings, Paragraphs & Images
+\● HTML Text Formatting, Links, Entities and Inline vs Block Level Elements
+\● HTML Lists: Unordered List, Ordered List and Description List
+\● Iframe to Display Web-Pages from other Websites on your Website
+\● Overview of HTML5 and HTML5 Semantic Elements
+\● Using Audios and Videos on Websites using HTML5 Elements
+\● Creating Forms to Collect Data from Users using HTML5 & CSS3
 Unit 4: Styling with CSS3
 =
-● Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
-● Using CSS3 Styles with div, p, span etc. for Creating Beautiful Web Pages
-● CSS3 Box-Model: Padding, Margin, Outline, Border, Background
-● CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
-● CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
+\● Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
+\● Using CSS3 Styles with div, p, span etc. for Creating Beautiful Web Pages
+\● CSS3 Box-Model: Padding, Margin, Outline, Border, Background
+\● CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
+\● CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
 Unit 5 Git & Version Control
 =
-● Getting Started With Git
-● Installing Git In Windows
-● Working With A Local Repository
-● Branches and Merging
-● Working With A Remote Repository
+\● Getting Started With Git
+\● Installing Git In Windows
+\● Working With A Local Repository
+\● Branches and Merging
+\● Working With A Remote Repository
 Unit 6 :Bootstrap Programming
 =
-● Getting Started With Bootstrap
-● Setup, Templates & Navbar - Project using Navbar
-● Typography, Forms & Tables - Project using Forms and Tables
-● CSS Components - Project using Components -
-● Grid System - Project using Grid System
-● Modal, Dropdown, Tabs & Tooltip - Project on JavaScript Plugins
-● Collapse, Accordion and Carousel
-● Project Custom Bootstrap Theme
+\● Getting Started With Bootstrap
+\● Setup, Templates & Navbar - Project using Navbar
+\● Typography, Forms & Tables - Project using Forms and Tables
+\● CSS Components - Project using Components -
+\● Grid System - Project using Grid System
+\● Modal, Dropdown, Tabs & Tooltip - Project on JavaScript Plugins
+\● Collapse, Accordion and Carousel
+\● Project Custom Bootstrap Theme
 Section 2
 =
 Unit 7: Basic Javascript concepts
-● Getting Started With JavaScript
-● Variables, Arrays & Objects - Project using Arrays and Objects
-● Loops, Conditionals & Switches - Project on Iterations
-● Functions & Events - Project on Functions
-● JavaScript Form Validation - Form Project
-● Learning Ajax - Basic Ajax Project
-● Project - Github AJAX
+\● Getting Started With JavaScript
+\● Variables, Arrays & Objects - Project using Arrays and Objects
+\● Loops, Conditionals & Switches - Project on Iterations
+\● Functions & Events - Project on Functions
+\● JavaScript Form Validation - Form Project
+\● Learning Ajax - Basic Ajax Project
+\● Project - Github AJAX
 Unit 8 : Front-end Frameworks - JQuery
 =
-● Getting Started With jQuery
-● Selectors & Mouse Events - Project on Selectors
-● Form Events - Project Form Events
-● DOM Manipulation - Project on DOM
-● Effects & Animation - Project on Effect and Animation
-● Traversing & Filtering - Project on Filtering
-● Project - jQuery Image Slider
+\● Getting Started With jQuery
+\● Selectors & Mouse Events - Project on Selectors
+\● Form Events - Project Form Events
+\● DOM Manipulation - Project on DOM
+\● Effects & Animation - Project on Effect and Animation
+\● Traversing & Filtering - Project on Filtering
+\● Project - jQuery Image Slider
 Unit 9 Frontend Frameworks - ReactJs
 =
-● Introduction To React
-● Original DOM Vs Virtual DOM
-● React Components
-● React Components With JSX
-● Props And State
+\● Introduction To React
+\● Original DOM Vs Virtual DOM
+\● React Components
+\● React Components With JSX
+\● Props And State
 
 Unit 10 App Development with Angular
 =
