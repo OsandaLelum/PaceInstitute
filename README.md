@@ -60,30 +60,30 @@ Unit 3 : Web Application Development - HTML
 
 Unit 4: Styling with CSS3
 =
-\● Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
-\● Using CSS3 Styles with div, p, span etc. for Creating Beautiful Web Pages
-\● CSS3 Box-Model: Padding, Margin, Outline, Border, Background
-\● CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
-\● CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
+● Creating and Using CSS Styles: Inline CSS, Internal CSS & External CSS
+● Using CSS3 Styles with div, p, span etc. for Creating Beautiful Web Pages
+● CSS3 Box-Model: Padding, Margin, Outline, Border, Background
+● CSS3 Floating, Positioning, Overflow, Image-Opacity and Image-Sprites
+● CSS3 Media Queries in Detail & Creating fully Responsive Web Pages
 
 Unit 5 Git & Version Control
 =
-\● Getting Started With Git
-\● Installing Git In Windows
-\● Working With A Local Repository
-\● Branches and Merging
-\● Working With A Remote Repository
+● Getting Started With Git
+● Installing Git In Windows
+● Working With A Local Repository
+● Branches and Merging
+● Working With A Remote Repository
 
 Unit 6 :Bootstrap Programming
 =
-\● Getting Started With Bootstrap
-\● Setup, Templates & Navbar - Project using Navbar
-\● Typography, Forms & Tables - Project using Forms and Tables
-\● CSS Components - Project using Components -
-\● Grid System - Project using Grid System
-\● Modal, Dropdown, Tabs & Tooltip - Project on JavaScript Plugins
-\● Collapse, Accordion and Carousel
-\● Project Custom Bootstrap Theme
+● Getting Started With Bootstrap
+● Setup, Templates & Navbar - Project using Navbar
+● Typography, Forms & Tables - Project using Forms and Tables
+● CSS Components - Project using Components -
+● Grid System - Project using Grid System
+● Modal, Dropdown, Tabs & Tooltip - Project on JavaScript Plugins
+● Collapse, Accordion and Carousel
+● Project Custom Bootstrap Theme
 
 Section 2
 =
