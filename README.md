@@ -33,11 +33,11 @@ Table of Contents
 Section 1
 Unit 1 : Web Development Fundamentals
 =
-\● Introduction to Internet/World Wide Web
-\● Networking Basics(Protocols/Addressing)
-\● Server Models
-\● Different Website types and technologies used to build them
-\● Search Engine Technologies
+-● Introduction to Internet/World Wide Web
+-● Networking Basics(Protocols/Addressing)
+-● Server Models
+-● Different Website types and technologies used to build them
+-● Search Engine Technologies
 Unit 2 : Planning and Prototyping
 =
 \● Understanding user experience (UX) and website planning
